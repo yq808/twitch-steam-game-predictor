@@ -1,4 +1,4 @@
-# COMM 599 Final Project
+# Twitch and Steam Game Predictor
 Alison Huang
 
 
