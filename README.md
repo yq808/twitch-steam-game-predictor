@@ -1,4 +1,4 @@
-# Twitch and Steam Game Predictor
+# Twitch Game Popularity Predictor
 Alison Huang
 
 
